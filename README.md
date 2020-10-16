@@ -2,15 +2,15 @@
 
 This is a Flutter project for a demo app named Cookbook.
 
-## Getting Started
+## What is it for?
 
-This project is a starting point for a Flutter application.
+This project was written for the purpose of an analysis concerning a master's thesis.
+It is a simple recipe sharing app that offers basic functionality such as:
+  - Creating recipes and storing them on a server
+  - Editing your existing recipes
+  - Searching for recipes by categories
+  - Deleting recipes
+  - Adding recipes to favorites independently for each user
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project was a learning one, so while I tried to apply best practices, there may be some potential improvements that could be implemented.
+The focus of the project was to learn widget customization, state management with Provider, async code including http requests, and using a simple local storage solution with SharedPreferences.

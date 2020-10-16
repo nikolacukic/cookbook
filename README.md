@@ -1,6 +1,6 @@
-# cookbook
+# Cookbook
 
-A new Flutter project.
+This is a Flutter project for a demo app named Cookbook.
 
 ## Getting Started
 
